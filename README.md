@@ -1,7 +1,5 @@
 ### Hello There, meu nome é Giovanni Paulo e essas são algumas informações sobre mim:
 
-- 🤔 Estudando: HTML, Portugol, Banco de Dados.
-- 😎 Pronomes: Ele/Dele.
 - 🤓 Fun fact: Gosto de jogos de estratégia, ouvir música, ler e escrever algo no tempo livre 👌
 
 <div>
